@@ -59,3 +59,8 @@ these companies.
 3. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
 4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
 5. Streamify - https://lnkd.in/ePiEwH5k
+
+# Web sites
+
+## Data Engineering toolkit by Second brain
+* Home page: https://www.ssp.sh/brain/data-engineering-toolkit/
