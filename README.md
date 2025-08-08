@@ -72,6 +72,14 @@ these companies.
   * [Medium - Mayurkumar Surani - Aug. 2025 - Mastering Databricks and DBT: An End-to-End Production-Grade Data Engineering Project](https://mayursurani.medium.com/bronze-layer-dynamic-incremental-data-ingestion-with-databricks-autoloader-part-02-4a0198a7570b)
   * [Medium - Mayurkumar Surani - Aug. 2025 - Bronze Layer - Dynamic Incremental Data Ingestion with Databricks Autoloader Part-02](https://mayursurani.medium.com/bronze-layer-dynamic-incremental-data-ingestion-with-databricks-autoloader-part-02-4a0198a7570b)
 
+# Specific topics
+
+## Python
+* [Google's Python class](https://developers.google.com/edu/python)
+* [Codecademy Python courses](https://www.codecademy.com/catalog/language/python)
+* [Python for Everybody (py4e)](https://www.py4e.com/)
+* [Youtube video - freeCodeCamp - Python in 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
 # Web sites
 
 ## Data Engineering toolkit by Second brain
