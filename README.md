@@ -60,7 +60,7 @@ these companies.
 4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
 5. Streamify - https://lnkd.in/ePiEwH5k
 
-## Data Engineering articles by 
+## Data Engineering articles by Mayurkumar Surani
 * Blog page: https://mayursurani.medium.com/
 * Author: Mayurkumar Surani
   ([Mayurkumar Surani on LinkedIn](https://www.linkedin.com/in/suranimayur/),
