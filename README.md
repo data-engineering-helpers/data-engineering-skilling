@@ -29,7 +29,7 @@ these companies.
 
 # Articles and posts
 
-## Data Engineering Resources by Ahmed Alsaket
+## Data Engineering resources by Ahmed Alsaket
 * Title: Data Engineering Resources
 * Date: Aug. 2025
 * Author: Ahmed Alsaket
@@ -59,6 +59,18 @@ these companies.
 3. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
 4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
 5. Streamify - https://lnkd.in/ePiEwH5k
+
+## Data Engineering articles by 
+* Blog page: https://mayursurani.medium.com/
+* Author: Mayurkumar Surani
+  ([Mayurkumar Surani on LinkedIn](https://www.linkedin.com/in/suranimayur/),
+  [Mayurkumar Surani on Medium](https://mayursurani.medium.com/))
+* Publisher: Medium
+* A few posts:
+  * [Medium - Mayurkumar Surani - May 2025 - End-to-End ETL Pipeline with AWS, PySpark, and Databricks](https://mayursurani.medium.com/end-to-end-etl-pipeline-for-banking-domain-with-aws-pyspark-and-databricks-f57ff1ce90e4)
+  * [Medium - Mayurkumar Surani - May 2025 - Top 20 PySpark Functions Every Data Engineer Should Master](https://mayursurani.medium.com/top-20-pyspark-functions-every-data-engineer-should-master-84d3f9640138)
+  * [Medium - Mayurkumar Surani - Aug. 2025 - Mastering Databricks and DBT: An End-to-End Production-Grade Data Engineering Project](https://mayursurani.medium.com/bronze-layer-dynamic-incremental-data-ingestion-with-databricks-autoloader-part-02-4a0198a7570b)
+  * [Medium - Mayurkumar Surani - Aug. 2025 - Bronze Layer - Dynamic Incremental Data Ingestion with Databricks Autoloader Part-02](https://mayursurani.medium.com/bronze-layer-dynamic-incremental-data-ingestion-with-databricks-autoloader-part-02-4a0198a7570b)
 
 # Web sites
 
