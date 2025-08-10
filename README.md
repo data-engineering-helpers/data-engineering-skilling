@@ -2,6 +2,21 @@ Knowledge Sharing - Data Engineering skilling
 =============================================
 
 # Table of Content (ToC)
+* [Overview](#overview)
+* [References](#references)
+  * [Data Engineering helpers](#data-engineering-helpers)
+* [Articles and posts](#articles-and-posts)
+  * [Data Engineering resources by Ahmed Alsaket](#data-engineering-resources-by-ahmed-alsaket)
+  * [Data Engineering articles by Mayurkumar Surani](#data-engineering-articles-by-mayurkumar-surani)
+  * [Data Engineering on DataBricks by Jakub Lasak](#data-engineering-on-databricks-by-jakub-lasak)
+  * [Data Engineering illustrations by Riya Khandelwal](#data-engineering-illustrations-by-riya-khandelwal)
+    * [Topics](#topics)
+* [Specific topics](#specific-topics)
+  * [Python](#python)
+* [Web sites](#web-sites)
+  * [Data Engineering toolkit by Second brain](#data-engineering-toolkit-by-second-brain)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Overview
 [This project](https://github.com/data-engineering-helpers/data-engineering-skilling)
