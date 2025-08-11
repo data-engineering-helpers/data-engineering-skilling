@@ -36,5 +36,7 @@ This [Readme](https://github.com/data-engineering-helpers/data-engineering-skill
 * Metadata - Data about data—providing essential context like data types, definitions, lineage, and relationships. 
 
 ## SQL CTEs: A Complete Overview of Common Table Expressions
+* Date: Aug. 2025
+* Post on LinkedIn: https://www.linkedin.com/posts/riyakhandelwal_cte-im-sql-activity-7359946608735604736-Kbos/
 * [LinkedIn media - PDF](https://media.licdn.com/dms/document/media/v2/D561FAQHWIQK1xHC-Xw/feedshare-document-pdf-analyzed/B56ZiOe457G0Ac-/0/1754737130508?e=1755734400&v=beta&t=MLFcWNo8WSdBkIj38eFREvrNRhFW9hWbA38gIg97pSk)
 
