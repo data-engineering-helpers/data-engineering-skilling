@@ -87,6 +87,13 @@ these companies.
   * [Medium - Mayurkumar Surani - Aug. 2025 - Mastering Databricks and DBT: An End-to-End Production-Grade Data Engineering Project](https://mayursurani.medium.com/bronze-layer-dynamic-incremental-data-ingestion-with-databricks-autoloader-part-02-4a0198a7570b)
   * [Medium - Mayurkumar Surani - Aug. 2025 - Bronze Layer - Dynamic Incremental Data Ingestion with Databricks Autoloader Part-02](https://mayursurani.medium.com/bronze-layer-dynamic-incremental-data-ingestion-with-databricks-autoloader-part-02-4a0198a7570b)
 
+## Data Engineering Q&A by Sachin Chandrashekhar
+* Author: Sachin Chandrashekhar
+  ([Sachin Chandrashekhar on LinkedIn](https://www.linkedin.com/in/mentorsachin/))
+* Date: Aug. 2025
+* LinkedIn post: https://www.linkedin.com/posts/mentorsachin_100-pages-of-data-engineering-qa-activity-7359055696279007232-KDz-/
+  * [LinkedIn media - PDF](https://media.licdn.com/dms/document/media/v2/D4E1FAQHiBwjr2tgVog/feedshare-document-pdf-analyzed/B4EZh1P3pAGwAc-/0/1754313758791?e=1755734400&v=beta&t=lvTBRnV8R3fbreuITL9IEuxNMmwn17VcVXhMqlIvTEI)
+
 ## Data Engineering on DataBricks by Jakub Lasak
 * Author:
 * Date: Aug. 2025
