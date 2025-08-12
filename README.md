@@ -11,6 +11,9 @@ Knowledge Sharing - Data Engineering skilling
   * [Data Engineering on DataBricks by Jakub Lasak](#data-engineering-on-databricks-by-jakub-lasak)
   * [Data Engineering illustrations by Riya Khandelwal](#data-engineering-illustrations-by-riya-khandelwal)
     * [Topics](#topics)
+* [Books](#books)
+  * [Fundamentals of Data Engineering](#fundamentals-of-data-engineering)
+  * [Designing Data Intensive Applications](#designing-data-intensive-applications)
 * [Specific topics](#specific-topics)
   * [Python](#python)
 * [Web sites](#web-sites)
@@ -104,6 +107,24 @@ these companies.
   ([Riya Khandelwal ](https://www.linkedin.com/in/riyakhandelwal/))
 * Date: Aug. 2025
 * [GitHub - Data Engineering helpers - Skilling - Dedicated readme for material published by Riya Khandelwal](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Engineering-by-Riya-Khandelwal.md)
+
+# Books
+
+## Fundamentals of Data Engineering
+* Authors: Joe Reis and Matt Housley
+* Date: July 2022
+* [LinkedIn media - Copy of the book](https://media.licdn.com/dms/document/media/v2/D561FAQHeWLitIfAouw/feedshare-document-pdf-analyzed/B56ZiO0gOuHQAY-/0/1754742799397?e=1755734400&v=beta&t=ZZ2dXqoNyFhHhFx28RCN4lK89gKaAp7MfyHjbH8uz2s)
+* Book on Amazon: https://www.amazon.com/dp/1098108302
+* Book on O'Reilly: https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/
+* Print length: 447 pages
+* ISBN-10: 1098108302
+* ISBN-13: 978-1098108304
+
+## Designing Data Intensive Applications
+* Author: Martin Kleppmann
+* Book on Amazon: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+* Book on O'Reilly: https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/
+* Date: Jan. 2026 (2nd version)
 
 # Specific topics
 
