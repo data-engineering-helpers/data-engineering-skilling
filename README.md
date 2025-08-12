@@ -114,6 +114,7 @@ these companies.
 * Authors: Joe Reis and Matt Housley
 * Date: July 2022
 * [LinkedIn media - Copy of the book](https://media.licdn.com/dms/document/media/v2/D561FAQHeWLitIfAouw/feedshare-document-pdf-analyzed/B56ZiO0gOuHQAY-/0/1754742799397?e=1755734400&v=beta&t=ZZ2dXqoNyFhHhFx28RCN4lK89gKaAp7MfyHjbH8uz2s)
+  * Post on LinkedIn about that book: https://www.linkedin.com/posts/riyakhandelwal_data-engineering-fundamentals-activity-7361018626092519429-cj9g/
 * Book on Amazon: https://www.amazon.com/dp/1098108302
 * Book on O'Reilly: https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/
 * Print length: 447 pages
