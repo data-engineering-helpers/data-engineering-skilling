@@ -50,13 +50,16 @@ these companies.
 # Articles and posts
 
 ## Data Engineering resources by Ahmed Alsaket
+
+### Article - 2025-08
 * Title: Data Engineering Resources
 * Date: Aug. 2025
 * Author: Ahmed Alsaket
   ([Ahmed Alsaket on LinkedIn](https://www.linkedin.com/in/ahmed-alsaket-974413197/))
 * Post on LinkedIn:
   https://www.linkedin.com/posts/ahmed-alsaket-974413197_data-engineering-resources-1-master-python-activity-7355862068169723908-rHNr/
-* Learning:
+
+### Learning
 1. Master Python: https://lnkd.in/e5rCbvP8
 2. Learn SQL: https://lnkd.in/efMKFkfX
 3. Learn MySQL: https://lnkd.in/efk-Mi3c
@@ -73,7 +76,8 @@ these companies.
 14. Learn Snowflake: https://lnkd.in/erETmtFU
 15. Learn Apache NiFi: http://bit.ly/43btwYy
 16. Learn Debezium: http://bit.ly/3K6W5gL
-* Portfolio with 5 must-try projects:
+
+### Portfolio with 5 must-try projects
 1. Reddit ETL Pipeline - https://lnkd.in/ekmgzGc8
 2. Surfline Dashboard - https://lnkd.in/e6AdaDzz
 3. Finnhub Streaming Data Pipeline - https://lnkd.in/eCF5kZvE
@@ -140,6 +144,9 @@ these companies.
 ## SQL
 
 ### Joins
+* References:
+  * Spark SQL - Join:
+    https://spark.apache.org/docs/3.5.4/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.join.html
 * Article: Exploring the Different Join Types in Spark SQL: A Step-by-Step Guide
   * Date: Feb. 2023
   * Author: Ahmed Uz Zaman
