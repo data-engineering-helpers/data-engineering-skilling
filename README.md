@@ -16,6 +16,8 @@ Knowledge Sharing - Data Engineering skilling
   * [Designing Data Intensive Applications](#designing-data-intensive-applications)
 * [Specific topics](#specific-topics)
   * [Python](#python)
+  * [SQL](#sql)
+    * [Joins](#joins)
 * [Web sites](#web-sites)
   * [Data Engineering toolkit by Second brain](#data-engineering-toolkit-by-second-brain)
 
@@ -135,6 +137,17 @@ these companies.
 * [Python for Everybody (py4e)](https://www.py4e.com/)
 * [Youtube video - freeCodeCamp - Python in 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
+## SQL
+
+### Joins
+* Article: Exploring the Different Join Types in Spark SQL: A Step-by-Step Guide
+  * Date: Feb. 2023
+  * Author: Ahmed Uz Zaman
+    ([Ahmed Uz Zaman on LinkedIn](https://www.linkedin.com/in/ahmed-uz-zaman/),
+    [Ahmed Uz Zaman on Medium](https://medium.com/@uzzaman.ahmed))
+  * Link on Medium:
+    https://medium.com/plumbersofdatascience/exploring-the-different-join-types-in-spark-sql-a-step-by-step-guide-49342ffe9578
+ 
 # Web sites
 
 ## Data Engineering toolkit by Second brain
