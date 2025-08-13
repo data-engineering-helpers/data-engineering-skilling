@@ -49,6 +49,20 @@ these companies.
 
 # Articles and posts
 
+## Spark on Luminousmen on Substack
+* Publisher: https://substack.com/@luminousmen
+
+### Anatomy of Spark applications
+* Date: Aug. 2025
+* Link to the article on Substack:
+  https://luminousmen.substack.com/p/anatomy-of-apache-spark-application
+* Post on LinkedIn about the article:
+  https://www.linkedin.com/posts/luminousmen_anatomy-of-apache-spark-application-activity-7361101801623859200-FIMY/
+  * Author: Kirill Bobrov
+    ([Kirill Bobrov on LinkedIn](https://www.linkedin.com/in/luminousmen/),
+    [Kirill Bobrov on Substack]())
+  * (TBC) [LinkedIn media - PDF]()
+
 ## Data Engineering resources by Ahmed Alsaket
 
 ### Article - 2025-08
