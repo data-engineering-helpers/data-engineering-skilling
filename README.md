@@ -156,19 +156,8 @@ these companies.
 * [Youtube video - freeCodeCamp - Python in 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## SQL
+* [GitHub - Data Engineering helpers - Skilling - Dedicated readme for material about Da Analysis with SQL](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Analysis-SQL.md)
 
-### Joins
-* References:
-  * Spark SQL - Join:
-    https://spark.apache.org/docs/3.5.4/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.join.html
-* Article: Exploring the Different Join Types in Spark SQL: A Step-by-Step Guide
-  * Date: Feb. 2023
-  * Author: Ahmed Uz Zaman
-    ([Ahmed Uz Zaman on LinkedIn](https://www.linkedin.com/in/ahmed-uz-zaman/),
-    [Ahmed Uz Zaman on Medium](https://medium.com/@uzzaman.ahmed))
-  * Link on Medium:
-    https://medium.com/plumbersofdatascience/exploring-the-different-join-types-in-spark-sql-a-step-by-step-guide-49342ffe9578
- 
 # Web sites
 
 ## Data Engineering toolkit by Second brain
