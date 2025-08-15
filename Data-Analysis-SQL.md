@@ -20,7 +20,8 @@ collects specifically material about Data Analysis with SQL.
 * Post on LinkedIn:
   https://www.linkedin.com/posts/mdsohailtanveer_pyspark-intermediate-level-practice-set-activity-7359456410570539009-J40s/
   * [LinkedIn media - PDF](https://media.licdn.com/dms/document/media/v2/D561FAQH4Y0gi-ET_hA/feedshare-document-pdf-analyzed/B56ZiIJoFcHUAc-/0/1754630885129?e=1756339200&v=beta&t=9_e96bp9T__BZBif2AV0jYOO8VOX-9EAoOwnrZ7OQPk)
-* Git repository: https://github.com/Sohailtanveer1/Pyspark_Practice_Sets
+* Git repository with the code (Jupyter notebooks):
+  https://github.com/Sohailtanveer1/Pyspark_Practice_Sets
 
 ## Joins with Spark
 * References:
@@ -33,3 +34,11 @@ collects specifically material about Data Analysis with SQL.
     [Ahmed Uz Zaman on Medium](https://medium.com/@uzzaman.ahmed))
   * Link on Medium:
     https://medium.com/plumbersofdatascience/exploring-the-different-join-types-in-spark-sql-a-step-by-step-guide-49342ffe9578
+
+## Replace case clause with pattern tables
+* Date: Aug. 2025
+* Author: Matt Martinand
+  ([Matt Martinand's Substack blog](https://substack.com/@performancede))
+* Article on Substack: https://performancede.substack.com/p/handling-fuzzy-matching-of-transactions
+* GitHub repository with the code (Jupyter notebook):
+  https://github.com/mattmartin14/dream_machine/blob/main/substack/articles/2025.08.15-fuzzy_like_matching/scratchpad.ipynb
