@@ -16,8 +16,7 @@ Knowledge Sharing - Data Engineering skilling
   * [Designing Data Intensive Applications](#designing-data-intensive-applications)
 * [Specific topics](#specific-topics)
   * [Python](#python)
-  * [SQL](#sql)
-    * [Joins](#joins)
+  * [Data Analysis with SQL](#data-analysis-with-sql)
 * [Web sites](#web-sites)
   * [Data Engineering toolkit by Second brain](#data-engineering-toolkit-by-second-brain)
 
@@ -155,7 +154,7 @@ these companies.
 * [Python for Everybody (py4e)](https://www.py4e.com/)
 * [Youtube video - freeCodeCamp - Python in 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
-## SQL
+## Data Analysis with SQL
 * [GitHub - Data Engineering helpers - Skilling - Dedicated readme for material about Da Analysis with SQL](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Analysis-SQL.md)
 
 # Web sites
