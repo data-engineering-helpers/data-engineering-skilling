@@ -2,10 +2,17 @@ Knowledge Sharing - Data Engineering skilling - Material by Riya Khandelwal
 ===========================================================================
 
 # Table of Content (ToC)
+* [Overview](#overview)
+* [Posts on LinkedIn](#posts-on-linkedin)
+  * [Terms that Data Engineers should know](#terms-that-data-engineers-should-know)
+    * [Terms](#terms)
+  * [SQL CTEs: A Complete Overview of Common Table Expressions](#sql-ctes-a-complete-overview-of-common-table-expressions)
 
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Overview
-This [Readme](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Engineering-by-Riya-Khandelwal.md) documents specifically the series of LinkedIn posts, and related material, published by
+This [Readme](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Engineering-by-Riya-Khandelwal.md)
+documents specifically the series of LinkedIn posts, and related material, published by
 ([Riya Khandelwal](https://www.linkedin.com/in/riyakhandelwal/))
 
 # Posts on LinkedIn
