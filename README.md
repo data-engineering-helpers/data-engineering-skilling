@@ -19,6 +19,8 @@ Knowledge Sharing - Data Engineering skilling
 * [Books](#books)
   * [Fundamentals of Data Engineering](#fundamentals-of-data-engineering)
   * [Designing Data Intensive Applications](#designing-data-intensive-applications)
+* [Curricula](#curricula)
+  * [DataExpert.io](#dataexpert)
 * [Specific topics](#specific-topics)
   * [Python](#python)
   * [Data Analysis with SQL](#data-analysis-with-sql)
@@ -150,6 +152,11 @@ these companies.
 * Book on Amazon: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
 * Book on O'Reilly: https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/
 * Date: Jan. 2026 (2nd version)
+
+# Curricula
+
+## DataExpert
+* [GitHub - Data Engineering helpers - Skilling - Dedicated readme about DataExpert.io](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Expert.md)
 
 # Specific topics
 
