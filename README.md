@@ -20,6 +20,7 @@ Knowledge Sharing - Data Engineering skilling
   * [Fundamentals of Data Engineering](#fundamentals-of-data-engineering)
   * [Designing Data Intensive Applications](#designing-data-intensive-applications)
 * [Curricula](#curricula)
+  * [DataBricks Growth Path](#databricks-growth-path)
   * [DataExpert.io](#dataexpert)
 * [Specific topics](#specific-topics)
   * [Python](#python)
@@ -154,6 +155,10 @@ these companies.
 * Date: Jan. 2026 (2nd version)
 
 # Curricula
+
+## DataBricks Growth Path
+* Home page: https://dataengineer.wiki/
+
 
 ## DataExpert
 * [GitHub - Data Engineering helpers - Skilling - Dedicated readme about DataExpert.io](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Expert.md)
