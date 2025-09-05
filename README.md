@@ -170,9 +170,14 @@ these companies.
 * [Codecademy Python courses](https://www.codecademy.com/catalog/language/python)
 * [Python for Everybody (py4e)](https://www.py4e.com/)
 * [Youtube video - freeCodeCamp - Python in 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
+* [Medium - 7 Python skills that separate juniors from seniors](https://python.plainenglish.io/7-python-skills-that-separate-juniors-from-seniors-8ba8e5dd5212)
 
 ## Data Analysis with SQL
 * [GitHub - Data Engineering helpers - Skilling - Dedicated readme for material about Da Analysis with SQL](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Analysis-SQL.md)
+
+### Duplication removal
+* [Medium - Removing duplicates with SQL](https://mayursurani.medium.com/how-i-detected-duplicate-records-in-a-user-transactions-table-a-real-data-engineering-5b355da3ebed)
+* [LinkedIn - Duplicate removal playbook](https://www.linkedin.com/posts/jrlasak_databricks-duplicate-data-emergency-playbook-activity-7369285609493893120-KRkD)
 
 # Web sites
 
