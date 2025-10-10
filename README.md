@@ -159,9 +159,16 @@ these companies.
 ## DataBricks Growth Path
 * Home page: https://dataengineer.wiki/
 
-
 ## DataExpert
 * [GitHub - Data Engineering helpers - Skilling - Dedicated readme about DataExpert.io](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Expert.md)
+
+## Transition from data science to data engineering
+* [LinkedIn learning - Transition from data science to data engineering](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering)
+* Level: beginners
+* Duration: 47 minutes
+* Author: Pooja Jain
+  * [Pooja Jain on LinkedIn](https://www.linkedin.com/in/pooja-jain-898253106)
+  * [Learning material by Pooja Jain on LinkedIn](https://www.linkedin.com/learning/instructors/pooja-jain)
 
 # Specific topics
 
