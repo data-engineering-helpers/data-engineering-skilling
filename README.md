@@ -162,6 +162,14 @@ these companies.
 ## DataExpert
 * [GitHub - Data Engineering helpers - Skilling - Dedicated readme about DataExpert.io](https://github.com/data-engineering-helpers/data-engineering-skilling/blob/main/Data-Expert.md)
 
+## Data Engineering training
+* Author: Andreas Kretz
+  ([Andreas Kretz on LinkedIn](https://www.linkedin.com/in/andreas-kretz))
+* [LinkedIn service page - Data Engineering training program](https://www.linkedin.com/services/page/14131b329742949272)
+  * LinkedIn post about the training program:
+  https://www.linkedin.com/posts/andreas-kretz_this-is-a-message-to-managers-stop-looking-activity-7382436735101865985-W-wu
+
+
 ## Transition from data science to data engineering
 * [LinkedIn learning - Transition from data science to data engineering](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering)
 * Level: beginners
