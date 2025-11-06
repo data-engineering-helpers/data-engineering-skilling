@@ -180,6 +180,28 @@ these companies.
 
 # Specific topics
 
+## Open source all included stacks
+* Git repository: https://github.com/abeltavares/batch-data-pipeline
+* Date: Nov. 2025
+* Author: [Abel Tavares](https://www.linkedin.com/in/abeltavares/)
+* Post on LinkedIn:
+  https://www.linkedin.com/posts/abeltavares_ive-built-a-batch-data-pipeline-with-observability-activity-7391402105053327360-oNLI/
+* Overview:
+  * Abel built a batch data pipeline with observability, data quality, and lineage tracking using open-source tools.
+    * Apache Airflow for orchestration
+    * DuckDB for fast analytical processing
+    * Delta Lake for ACID transactions on data lakes
+    * MinIO (S3-compatible) for storage
+    * Trino Software Foundation for distributed SQL queries
+    * Metabase for dashboards
+    * Soda core for data quality checks
+    * Marquez + OpenLineage for end-to-end lineage
+    * Prometheus Group + Grafana Labs for monitoring
+* The pipeline follows the Medallion Architecture (Bronze → Silver → Gold)
+  with automated data cleaning, validation, and business aggregations.
+* Everything runs with Docker, including automated dashboard generation
+  in Metabase and Grafana.
+
 ## Python
 * [Google's Python class](https://developers.google.com/edu/python)
 * [Codecademy Python courses](https://www.codecademy.com/catalog/language/python)
