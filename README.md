@@ -202,6 +202,10 @@ these companies.
 * Everything runs with Docker, including automated dashboard generation
   in Metabase and Grafana.
 
+## Architecture
+* Author: [Pooja Jain](https://www.linkedin.com/in/pooja-jain-898253106)
+* Linked post: https://www.linkedin.com/posts/pooja-jain-898253106_ever-seen-a-city-without-an-architect-buildings-activity-7392078717323300864-fHNh
+
 ## Python
 * [Google's Python class](https://developers.google.com/edu/python)
 * [Codecademy Python courses](https://www.codecademy.com/catalog/language/python)
