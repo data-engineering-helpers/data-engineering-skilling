@@ -105,7 +105,7 @@ these companies.
 4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/ercYzXtX
 5. Streamify - https://lnkd.in/ePiEwH5k
 
-## Data Engineering articles by Saurabh Sharma
+## Data Engineering articles by Saurav Singh
 * 8 skills that separate the top 1% of data engineers from everyone else - https://medium.com/towards-data-engineering/8-skills-that-separate-top-data-engineers-from-everyone-else-4e0bb4c6e784
 
 ## Data Engineering articles by Mayurkumar Surani
