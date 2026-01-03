@@ -70,6 +70,10 @@ these companies.
     [Kirill Bobrov on Substack]())
   * (TBC) [LinkedIn media - PDF]()
 
+## Data Talks Club - Zoomcamp
+* GitHub repository:
+  https://github.com/DataTalksClub/data-engineering-zoomcamp
+
 ## Data Expert - Resources by Zach Wilson
 
 ### Data Engineer handbook
@@ -77,7 +81,8 @@ these companies.
   https://github.com/DataExpert-io/data-engineer-handbook
 
 ## Awesome Data Engineering - Resources by Igor Barinov
-* https://github.com/igorbarinov/awesome-data-engineering
+* GitHub repository:
+  https://github.com/igorbarinov/awesome-data-engineering
 
 ## Data Engineering resources by Amjń
 * Link to the article on Medium:
