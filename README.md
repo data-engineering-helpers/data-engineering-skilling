@@ -70,6 +70,10 @@ these companies.
     [Kirill Bobrov on Substack]())
   * (TBC) [LinkedIn media - PDF]()
 
+## Awesome open source Data Engineering - Resources by Gunnar Morling
+* GitHub repository:
+  https://github.com/gunnarmorling/awesome-opensource-data-engineering
+
 ## Data Talks Club - Zoomcamp
 * GitHub repository:
   https://github.com/DataTalksClub/data-engineering-zoomcamp
