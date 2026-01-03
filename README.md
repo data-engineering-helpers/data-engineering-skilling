@@ -70,12 +70,14 @@ these companies.
     [Kirill Bobrov on Substack]())
   * (TBC) [LinkedIn media - PDF]()
 
-## Data Expert: resources by Zach Wilson
+## Data Expert - Resources by Zach Wilson
 
 ### Data Engineer handbook
 * GitHub repository:
   https://github.com/DataExpert-io/data-engineer-handbook
 
+## Awesome Data Engineering - Resources by Igor Barinov
+* https://github.com/igorbarinov/awesome-data-engineering
 
 ## Data Engineering resources by Amjń
 * Link to the article on Medium:
