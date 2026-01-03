@@ -70,6 +70,11 @@ these companies.
     [Kirill Bobrov on Substack]())
   * (TBC) [LinkedIn media - PDF]()
 
+## Data Engineering resources by Amjń
+* Link to the article on Medium:
+  https://medium.com/@aminsiddique95/the-best-github-repos-for-data-engineers-in-2025-b2f02d7c1833
+
+
 ## Data Engineering resources by Ahmed Alsaket
 
 ### Article - 2025-08
