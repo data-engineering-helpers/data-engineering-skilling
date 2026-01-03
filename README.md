@@ -70,6 +70,13 @@ these companies.
     [Kirill Bobrov on Substack]())
   * (TBC) [LinkedIn media - PDF]()
 
+## Data Expert: resources by Zach Wilson
+
+### Data Engineer handbook
+* GitHub repository:
+  https://github.com/DataExpert-io/data-engineer-handbook
+
+
 ## Data Engineering resources by Amjń
 * Link to the article on Medium:
   https://medium.com/@aminsiddique95/the-best-github-repos-for-data-engineers-in-2025-b2f02d7c1833
