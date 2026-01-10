@@ -78,6 +78,15 @@ these companies.
 * GitHub repository:
   https://github.com/DataTalksClub/data-engineering-zoomcamp
 
+## Reliable Data Engineering
+* Home page on Medium: https://medium.com/@reliabledataengineering
+
+### Data Engineering Design Patterns You Must Learn in 2026
+* Title: Data Engineering Design Patterns You Must Learn in 2026
+* Date: Jan. 2026
+* Article on Medium:
+  https://medium.com/@reliabledataengineering/data-engineering-design-patterns-you-must-learn-in-2026-or-watch-your-pipelines-burn-b0c12c66765a
+
 ## Data Expert - Resources by Zach Wilson
 
 ### Data Engineer handbook
