@@ -60,6 +60,11 @@ these companies.
 * Link to the article on Medium:
   https://medium.com/@reliabledataengineering/data-engineering-is-not-one-job-anymore-4721f1ac912f
 
+## Claude Skills in Data Engineering
+* Link to the article on Medium:
+  https://medium.com/@reliabledataengineering/i-built-a-digital-data-team-in-30-minutes-claude-skills-changed-everything-5e4bdd52f4ed
+
+
 ## Spark on Luminousmen on Substack
 * Publisher: https://substack.com/@luminousmen
 
