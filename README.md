@@ -56,6 +56,10 @@ these companies.
 
 # Articles and posts
 
+## Data Engineering is not one job anymore
+* Link to the article on Medium:
+  https://medium.com/@reliabledataengineering/data-engineering-is-not-one-job-anymore-4721f1ac912f
+
 ## Spark on Luminousmen on Substack
 * Publisher: https://substack.com/@luminousmen
 
