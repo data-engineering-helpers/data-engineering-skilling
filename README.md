@@ -229,6 +229,10 @@ these companies.
 
 # Specific topics
 
+## Spark koans
+* Test your Spark knowledge directly in the browser:
+  https://www.spark-koans.com/
+
 ## Open source all included stacks
 * Git repository: https://github.com/abeltavares/batch-data-pipeline
 * Date: Nov. 2025
