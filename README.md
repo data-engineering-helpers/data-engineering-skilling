@@ -61,6 +61,10 @@ these companies.
   https://mayursurani.medium.com/mastering-pyspark-sql-a-complete-hands-on-guide-for-data-engineers-bf94c887f3a5
 * Title: Mastering PySpark & SQL: A Complete Hands-On Guide for Data Engineers
 
+## The Essential Skill Stack: Foundational Knowledge Every Data Engineer Must Hav
+* Link to the article on Medium:
+  https://medium.com/@one.step.analytics.on.data/the-essential-skill-stack-foundational-knowledge-every-data-engineer-must-have-deep-dive-edition-3c55f36a5e31
+
 ## Data Engineering is not one job anymore
 * Link to the article on Medium:
   https://medium.com/@reliabledataengineering/data-engineering-is-not-one-job-anymore-4721f1ac912f
