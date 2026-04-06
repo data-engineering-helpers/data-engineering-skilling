@@ -66,6 +66,14 @@ these companies.
   https://medium.com/@one.step.analytics.on.data/how-important-it-has-become-to-build-a-pet-project-or-product-equivalent-e2e-project-on-your-own-in-d39036007e81
 * Title: How Important It Has Become to Build a Pet Project or Product-Equivalent E2E Project on Your Own in the AI Era
 
+## Full open source lakehouse
+* Link to the article:
+  https://gamov.io/posts/streaming-lakehouse/
+* Author: Viktor Gamov
+* Date: April 2026
+* Title: Building a Streaming Lakehouse with Open Source: Kafka to Iceberg to Trino to Superset
+* GitHub repository: https://github.com/gAmUssA/flink-trino-superset-pipeline
+
 ## Data Engineering - How to transition from one role to the next
 * Link to the article on Medium:
   https://medium.com/@one.step.analytics.on.data/how-to-transition-from-one-role-to-the-next-in-data-engineering-a3c33ef3ace1
