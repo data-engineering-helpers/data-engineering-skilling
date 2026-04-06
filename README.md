@@ -61,6 +61,11 @@ these companies.
   https://mayursurani.medium.com/mastering-pyspark-sql-a-complete-hands-on-guide-for-data-engineers-bf94c887f3a5
 * Title: Mastering PySpark & SQL: A Complete Hands-On Guide for Data Engineers
 
+## End-to-end project in the AI era
+* Link to the article on Medium:
+  https://medium.com/@one.step.analytics.on.data/how-important-it-has-become-to-build-a-pet-project-or-product-equivalent-e2e-project-on-your-own-in-d39036007e81
+* Title: How Important It Has Become to Build a Pet Project or Product-Equivalent E2E Project on Your Own in the AI Era
+
 ## Data Engineering - How to transition from one role to the next
 * Link to the article on Medium:
   https://medium.com/@one.step.analytics.on.data/how-to-transition-from-one-role-to-the-next-in-data-engineering-a3c33ef3ace1
