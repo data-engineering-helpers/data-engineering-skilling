@@ -56,6 +56,10 @@ these companies.
 
 # Articles and posts
 
+## Idempotency with Spark
+* Link to the article on Medium:
+  https://medium.com/@sendoamoronta/designing-idempotent-data-pipelines-in-apache-spark-from-batch-to-streaming-at-scale-17c8a6df89d7
+
 ## Complete SQL and PySpark guide
 * Link to the article on Medium:
   https://mayursurani.medium.com/mastering-pyspark-sql-a-complete-hands-on-guide-for-data-engineers-bf94c887f3a5
