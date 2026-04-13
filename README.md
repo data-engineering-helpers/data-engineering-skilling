@@ -237,6 +237,11 @@ these companies.
 * Date: Aug. 2025
 * [GitHub - Databricks apparel streaming](https://github.com/jrlasak/databricks_apparel_streaming)
 
+#### Jakub Lasak - Senior Databricks Data Engineer interview
+* [LinkedIn post - Senior Databricks Data Engineer interview](https://www.linkedin.com/posts/jrlasak_senior-databricks-data-engineer-interview-share-7448664871082086400-JrDX/)
+* Date: Apr. 2026
+* [Substack - 7 Questions That Expose How You Debug Slow Pipelines](https://substack.com/home/post/p-193616739)
+
 ### Data Engineering illustrations by Riya Khandelwal
 
 * Author: Riya Khandelwal
