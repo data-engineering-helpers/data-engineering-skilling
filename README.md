@@ -140,6 +140,10 @@ these companies.
 
 * [GitHub - Awesome open source data engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 
+### Data ingestion methods
+
+* [Medium - Data ingestion methods](https://blog.dataengineerthings.org/5-data-ingestion-methods-every-data-engineer-should-know-e527b0c819d7)
+
 ### Data Talks Club - Zoomcamp
 
 * [GitHub - DataTalksClub - Data Engineering zoom camp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
