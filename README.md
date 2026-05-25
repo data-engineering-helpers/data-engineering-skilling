@@ -110,6 +110,28 @@ these companies.
   Trino to Superset
 * [GitHub - Flink Trino Superset pipeline](https://github.com/gAmUssA/flink-trino-superset-pipeline)
 
+### Data Engineering fundamentals
+
+* [Soda blog - Data Engineering fundamentals](https://soda.io/blog/data-engineering-fundamentals)
+* Date: May 2026
+* Author: Fabiana Perraz
+* Excerpts:
+
+> Key Takeaways:
+> * Data engineering is the discipline of building systems that move data reliably from source to use: ingestion, transformation, validation, storage, and consumption.
+> * The job has shifted from "moving data" to "ensuring data is correct, fresh, and usable" at every pipeline stage.
+> * Data engineering is evolving toward greater automation, observability, and governance.
+> * Most data failures are silent: pipelines run successfully but produce incorrect outputs. Engineers' job is to design systems that fail visibly.
+>
+> Core skills of a Data Engineer:
+> 1. Strong SQL capability
+> 2. Python or a similar general-purpose language
+> 3. How data should be modeled
+> 4. Distributed systems thinking
+> 5. Cloud infrastructure knowledge
+> 6. Reason about data quality
+> 7. Communication
+
 ### Data Engineering - How to transition from one role to the next
 
 * [Link to the article on Medium](https://medium.com/@one.step.analytics.on.data/how-to-transition-from-one-role-to-the-next-in-data-engineering-a3c33ef3ace1)
