@@ -86,6 +86,10 @@ these companies.
 
 ## Articles and posts
 
+### Spark jobs, stages and tasks
+
+* [LinkedIn post - Spark jobs, stages and tasks](https://www.linkedin.com/posts/jrlasak_walk-me-through-what-happens-when-you-run-activity-7479821453408956416-nVtv)
+
 ### Idempotency with Spark
 
 * [Link to the article on Medium](https://medium.com/@sendoamoronta/designing-idempotent-data-pipelines-in-apache-spark-from-batch-to-streaming-at-scale-17c8a6df89d7)
