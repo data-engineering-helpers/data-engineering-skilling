@@ -266,9 +266,36 @@ these companies.
 
 ### Data Engineering on DataBricks by Jakub Lasak
 
-* Author:
+* Author: Jakub Lasak
 * Date: Aug. 2025
 * [GitHub - Databricks apparel streaming](https://github.com/jrlasak/databricks_apparel_streaming)
+
+#### Jakub Lasak - Projects that get you hired
+
+* [LinkedIn post - ](https://www.linkedin.com/feed/update/urn:li:activity:7484282357680791553/)
+* Date: Jul. 2026
+
+> Databricks just made 5 paid products free - Lakebase, Agent Bricks, Genie Code, and more. You can build a hire-worthy portfolio for $0.
+> 
+> For years, the honest answer to "how do I build a modern Databricks portfolio at home" was: you basically couldn't - the free tier couldn't touch this stack, and a trial workspace expires before you finish.
+>
+> Free Edition just killed that excuse. Five products that used to require a paid workspace are now free. Here's what each one is and what building with it proves to a hiring manager.
+>
+> 𝟭. 𝗟𝗮𝗸𝗲𝗯𝗮𝘀𝗲
+> Managed Postgres that sits right next to your lakehouse. Sync a Delta gold table into it and serve a live app. Proves you grasp OLTP vs OLAP and can design a serving layer, not just batch ETL.
+>
+> 𝟮. 𝗔𝗴𝗲𝗻𝘁 𝗕𝗿𝗶𝗰𝗸𝘀
+> Builds and auto-tunes AI agents on your own tables. Ship an agent that answers questions over a real dataset. Proves you can put production GenAI on governed data, the skill every team is hiring for right now.
+> 𝟯. 𝗚𝗲𝗻𝗶𝗲 𝗖𝗼𝗱𝗲
+> Ask in plain English and Genie Code writes, runs, and iterates on the code itself (the coding agent, not AI/BI Genie the analytics assistant) - analyzing a dataset, cleaning a pipeline, building a chart. Point it at a raw dataset and let it do the first pass, then steer its approach. Proves you can put an agentic coding assistant to work on real data and still own the result.
+>
+> 𝟰. 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗚𝗣𝗨𝘀
+> On-demand GPU compute with zero cluster setup. Fine-tune a small model or run GPU inference on a real dataset. Proves you can handle ML and AI workloads, not only SQL and Spark.
+>
+> 𝟱. 𝗟𝗮𝗸𝗲𝗳𝗹𝗼𝘄 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿
+> Drag-and-drop builder for declarative pipelines. Wire up a full bronze-to-gold ingestion flow without hand-coding orchestration. Proves you know medallion architecture and can ship a pipeline end to end.
+
+<img width="896" height="1120" alt="image" src="https://github.com/user-attachments/assets/ecc98126-5a87-431c-a2e4-0e21b17eeba0" />
 
 #### Jakub Lasak - Senior Databricks Data Engineer interview
 
