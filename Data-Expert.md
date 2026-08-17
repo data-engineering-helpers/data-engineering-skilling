@@ -1,7 +1,7 @@
-Data Engineering Bootcamp - DataExpert.io
-=========================================
+# Data Engineering Bootcamp - DataExpert.io
 
-# References
+## References
+
 * Home page: https://learn.dataexpert.io
 * People behind:
   * Zach Wilson
@@ -9,9 +9,13 @@ Data Engineering Bootcamp - DataExpert.io
 * Example of a session (Aug. 2025):
   https://learn.dataexpert.io/program/the-absolute-beginner-data-engineering-boot-camp-starting-august-7th-6453
 
-## Promotional articles
-* Post on Linked the 16 Aug. 2025:
-  https://www.linkedin.com/posts/eczachly_we-kicked-off-the-free-beginner-boot-camp-activity-7362254488142766082-7lKz/
+<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/ce7cd3e7-0f00-4c84-bec4-408f5b61dd4e" />
+
+### Promotional articles
+
+* [Post on Substack the 14 Aug. 2026](https://blog.dataexpert.io/p/the-2026-mastering-databricks-roadmap)
+  * [Post on Linked the 17 Aug. 2026](https://www.linkedin.com/feed/update/urn:li:activity:7495007549524480000/)
+* [Post on Linked the 16 Aug. 2025](https://www.linkedin.com/posts/eczachly_we-kicked-off-the-free-beginner-boot-camp-activity-7362254488142766082-7lKz/)
   * YouTube video of the replay: https://www.youtube.com/watch?v=T4uyvQDtoxE
 
 ## Example of curriculum
